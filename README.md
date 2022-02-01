@@ -1,4 +1,4 @@
-# pytest
+# Pytest
 Guided Project by Coursera using Python and Pytest
 
 1. Descargar el geckodriver de Mozilla
